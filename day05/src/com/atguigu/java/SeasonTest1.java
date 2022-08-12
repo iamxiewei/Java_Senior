@@ -92,7 +92,7 @@ enum Season1 implements Info{
     public String toString() {
         return "Season{" +
                 "seasonName='" + seasonName + '\'' +
-                ", seasonDesc='" + seasonDesc + '\'' +
+                ", seasonDesc='" + seasonDesc + '\'' +"***"+
                 '}';
     }
 }
