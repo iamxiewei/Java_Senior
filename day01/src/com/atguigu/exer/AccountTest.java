@@ -66,7 +66,7 @@ public class AccountTest {
 
         c1.setName("甲");
         c2.setName("乙");
-
+        System.out.println("修改");
         c1.start();
         c2.start();
     }
